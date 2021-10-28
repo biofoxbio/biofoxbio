@@ -13,9 +13,9 @@
  
   </div> 
     
-    #Visite minhas redes sociais
+   ##
   
-  <div style="width: 300px;"> 
+  <div>
   <a href="https://github.com/biofoxbio/biofoxbio " target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=highcontrast " target="_blank"></a>
   
   
