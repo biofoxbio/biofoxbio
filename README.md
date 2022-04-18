@@ -14,6 +14,8 @@
   <img align="center" alt="Eduardo java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
     
   <img align="center" alt="Eduardo VS Code " height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">  
+  <img align="center" alt="Eduardo VS Code " height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"> 
+  <img align="center" alt="Eduardo VS Code " height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">   
   </div> 
     
    ##
