@@ -1,19 +1,17 @@
-masterizar a criação de apps Android com Kotlin, introduzindo o universo
-do [DevMon](https://fabricadesinapse.github.io/DevMon/).
 
-🏫 Formado em Jogos Digitais pela [FIAP](https://www.fiap.com.br/), onde também fiz um MBA em gestão estratégica de negócios, pra sair um pouco da zona de
-conforto tech. Colaborei em um [artigo científico](https://www.mdpi.com/2073-4441/13/9/1142) publicado na
-revista [Water](https://www.mdpi.com/), sobre usar realidade virtual no planejamento da mudança climática.
-
-🌎 Em 2018, cofundei a [Virtual Planet](https://virtualplanet.tech/), startup localizada na Califórnia que utiliza tecnologias
-imersivas como realidade virtual para comunicar melhor os problemas relacionados à mudança climática.
-🔮 Atualmente estou em busca de ampliar os meus projetos de educação e adquirir novas experiências no mundo da programação.
-Meu sonho é conseguir commitar em alguns projetos de código aberto que estão sempre no meu dia a dia, já
-consegui [um pouquinho](https://github.com/nestjs/docs.nestjs.com/pulls?q=is%3Apr+is%3Aclosed+author%3Apaulosalvatore)
-com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documentação haha.
 <!-- BIO:END -->
+
+
+
+
 <!-- SKILLSET:START -->
+
+
+
+
+
 ## Tecnologias e Ferramentas
+
 <table>
 <tr>
 <td align="center" width="50%" valign="top">
@@ -33,7 +31,15 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" title="Webpack" height="50" />
 </td>
 <td align="center" valign="top">
+
+
+
+
 ### Games
+
+
+
+
 <img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" title="C#" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" title="Photoshop" height="50" />
@@ -57,7 +63,14 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" title="XAMPP" height="50" />
 </td>
 <td align="center" valign="top">
+
+
+
 ### Database
+
+
+
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" title="Maria DB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="50" />
 <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
@@ -67,14 +80,27 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 </tr>
 <tr>
 <td align="center" valign="top">
+
+
+
 ### Mobile
+
+
+
 <img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
 </td>
 <td align="center" valign="top">
+
+
+
 ### Cloud & DevOps
+
+
+
+
 <img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" title="Docker" height="50" />
@@ -88,13 +114,27 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 </tr>
 <tr>
 <td align="center" valign="top">
+
+
+
 ### Hardware
+
+
+
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" title="Arduino" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" title="C++" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" title="Raspberry Pi" height="50" />
 </td>
 <td align="center" valign="top">
+
+
+
 ### AI
+
+
+
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" title="Keras" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" height="50" />
@@ -103,7 +143,14 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 </tr>
 <tr>
 <td align="center" valign="top">
+
+
+
 ### Tools & IDEs
+
+
+
+
 <img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
 <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
 <img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" />
@@ -117,7 +164,14 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
 </td>
 <td align="center" valign="top">
+
+
+
 ### Started With
+
+
+
+
 <img style="margin: 10px" src="assets/lua.svg" alt="Lua" title="Lua" height="50" />
 <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" title="XAMPP" height="50" />
@@ -129,8 +183,14 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 </tr>
 </table>
 <br/>
+
+
 <!-- SKILLSET:END -->
+
+
 <!-- STATS:START -->
+
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
 </div>
@@ -140,9 +200,21 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
 </div>
+
+
+
 <!-- STATS:END -->
+
+
+
 <br />
+
+
+
 <!-- CONTRIBUTION:START -->
+
+
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/paulosalvatore/paulosalvatore/output/github-snake.svg" alt="Contribution Graph" />
 </div>
@@ -151,5 +223,7 @@ com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documen
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=paulosalvatore&&style=flat-square" />
 </div>
+
+
 <!-- VIEW-COUNT:END -->
     
